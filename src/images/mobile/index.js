@@ -1,0 +1,9 @@
+export { default as HeroMobile } from "./image-interactive.jpg";
+export { default as earth } from "./image-deep-earth.jpg";
+export { default as curiosity } from "./image-curiosity.jpg";
+export { default as fisheye } from "./image-fisheye.jpg";
+export { default as above } from "./image-from-above.jpg";
+export { default as grid } from "./image-grid.jpg";
+export { default as night } from "./image-night-arcade.jpg";
+export { default as pocket } from "./image-pocket-borealis.jpg";
+export { default as soccer } from "./image-soccer-team.jpg";
